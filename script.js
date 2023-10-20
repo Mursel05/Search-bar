@@ -11,6 +11,6 @@ body.addEventListener("click", function () {
     section.classList.remove("open");
     section.classList.add("close");
     cancel.classList.replace("cancel1", "cancel2");
-
   }
 });
+
